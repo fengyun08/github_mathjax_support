@@ -1,6 +1,4 @@
-# github_mathjax_support
-
-让 github 在 chrome 浏览器中正确显示数学公式
+## 让 github 在 chrome 浏览器中正确显示数学公式
 
 - 首先在这个网址下载 chrome 的 mathjax 插件源码
 
